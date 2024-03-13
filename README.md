@@ -3,5 +3,5 @@ This is my first project in cognorise internship, in this project I predicted sp
 <br>
 ML Algorithm- Logistic Regression
 <br>
-/nvisualization tool- matplotlib and seaborn
+visualization tool- matplotlib and seaborn
 
