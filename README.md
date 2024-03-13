@@ -4,4 +4,8 @@ This is my first project in cognorise internship, in this project I predicted sp
 ML Algorithm- Logistic Regression
 <br>
 visualization tool- matplotlib and seaborn
+<br>
+Dataset- Iris
+<br>
+Accuracy Score- 90%
 
