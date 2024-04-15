@@ -1,11 +1,5 @@
 # cognorise-infotech
-This is my first project in cognorise internship, in this project I predicted species of flower through their sepal and petal measurements.
-<br>
-ML Algorithm- Logistic Regression
-<br>
-visualization tool- matplotlib and seaborn
-<br>
-Dataset- Iris
-<br>
-Accuracy Score- 90%
-
+This repository serves as a comprehensive collection of the impactful projects undertaken during my internships. It showcases my hands-on experience, expertise, and contributions to real-world challenges in data science and machine learning domains. Each project within this repository demonstrates my proficiency in utilizing various algorithms, tools, and techniques to tackle complex problems, along with detailed documentation highlighting methodologies and results. It stands as a testament to my continuous learning journey and commitment to excellence in the field of data science.
+Company Name: Cognorise Infotech
+Role: Data Scientist Intern
+Technology used : Machine Learning Algorithms and Python 
